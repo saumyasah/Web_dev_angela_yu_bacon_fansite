@@ -1,0 +1,11 @@
+/***Tag Selector**/
+h1{color: red;}
+img:hover{background-color: gold;}
+
+/***class Selector**/
+.bacon{background-color: green;}
+.broccoli{background-color: red;}
+
+/**ID Selector**/ /** ID can be one only but class can be diff*/
+#heading {color: blue;}/* It will Overight the the above h1 color because it is more specific*/
+
